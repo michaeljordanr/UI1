@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UI1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="poo">POO</string>
+    <string name="question2">Qual paradigma de programação você prefere?</string>
+    <string name="quesiton1">De qual Linguagem de programação você gosta?</string>
+    <string name="procedural">Procedural</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="cpp">C++</string>
+</resources>
